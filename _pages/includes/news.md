@@ -9,8 +9,8 @@
 
 <div class="scrollable">
   <ul>
-  <li> <i>2024.09</i>: 🎉 One first-author paper is accepted by ACM MM 2025. </li>
-  <li> <i>2024.09</i>: 🎉 One first-author paper is accepted by BMVC 2025. </li>
+  <li> <i>2025.07</i>: 🎉 One first-author paper is accepted by ACM MM 2025. </li>
+  <li> <i>2025.07</i>: 🎉 One first-author paper is accepted by BMVC 2025. </li>
   <li> <i>2024.09</i>: 🎉 One paper is accepted by NeurIPS 2024 (Spotlight). </li>
   <li> <i>2024.09</i>: 🎉 One paper is accepted by EMNLP 2024 (Main). </li>
   <li> <i>2024.06</i>: 🎉 One paper is appeared by ArXiv. </li>
