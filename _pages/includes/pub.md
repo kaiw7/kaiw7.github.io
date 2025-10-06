@@ -9,7 +9,7 @@
 
  Shijian Deng, **Kai Wang**, Tianyu Yang, Harsh Singh, Yapeng Tian.
 
-** EMNLP 2025 (Findings)**
+**EMNLP 2025 (Findings)**
 
 </div>
 </div>
@@ -21,7 +21,7 @@
 
 Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen Li<sup>*</sup>, **Kai Wang<sup>*</sup>**, Xinyue Li<sup>*</sup>, Qi Qin, Yufei Liu, Yi Xin, Zhongyu Li, Bin Fu, Chenyang Si, Yuewen Cao, Conghui He, Ziwei Liu, Yu Qiao, Qibin Hou, Hongsheng Li, Peng Gao
 
-** Under Review**
+**Under Review**
 
 </div>
 </div>
@@ -30,11 +30,11 @@ Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning]
+Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning
 
 **Kai Wang**, Shentong Mo, Yapeng Tian, Dimitrios Hatzinakos.
 
-** BMVC 2025 (Poster)**
+**BMVC 2025 (Poster)**
 
 </div>
 </div>
