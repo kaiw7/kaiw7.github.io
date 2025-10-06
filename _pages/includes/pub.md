@@ -2,7 +2,7 @@
 # 📝 Selected Publications
 > ( <sup>*</sup> equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Improvement in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2510.02665) 
@@ -27,7 +27,7 @@ Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2025</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning
@@ -40,7 +40,7 @@ Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Aud
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/AV-DiT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='./images/AV-DiT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AV-DiT: Taming Image Diffusion Transformers for Efficient Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) 
