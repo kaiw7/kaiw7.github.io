@@ -2,14 +2,52 @@
 # 📝 Selected Publications
 > ( <sup>*</sup> equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-Improvement in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2510.02665) 
+
+ Shijian Deng, **Kai Wang**, Tianyu Yang, Harsh Singh, Yapeng Tian.
+
+** EMNLP 2025 (Findings)**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/lumina-video.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/pdf/2502.06782)
+
+Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen Li<sup>*</sup>, **Kai Wang<sup>*</sup>**, Xinyue Li<sup>*</sup>, Qi Qin, Yufei Liu, Yi Xin, Zhongyu Li, Bin Fu, Chenyang Si, Yuewen Cao, Conghui He, Ziwei Liu, Yu Qiao, Qibin Hou, Hongsheng Li, Peng Gao
+
+** Under Review**
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning]
+
+**Kai Wang**, Shentong Mo, Yapeng Tian, Dimitrios Hatzinakos.
+
+** BMVC 2025 (Poster)**
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='./images/AV-DiT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) 
+[AV-DiT: Taming Image Diffusion Transformers for Efficient Joint Audio and Video Generation](https://arxiv.org/pdf/2406.07686) 
 
 **Kai Wang**, Shijian Deng, Jing Shi, Dimitrios Hatzinakos, Yapeng Tian. 
 
-**Under Review**
+**ACM Multimedia 2025 (Oral)**
 
 - We design an efficient audio-visual diffusion transformer generate high-quality, realistic videos with both visual and audio tracks.
 
@@ -83,7 +121,7 @@ Alireza Esmaeilzehi<sup>*</sup>, Ensieh Khazaei<sup>*</sup>, **Kai Wang<sup>*</s
 
 - We propose a novel parameter-efficient scheme called Mixture-of-Modality-Adaptations (MoMA) for audio-visual action recognition.
 
-</div>
+<!-- </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2023</div><img src='./images/seformer.png' alt="sym" width="100%"></div></div>
@@ -93,7 +131,7 @@ Alireza Esmaeilzehi<sup>*</sup>, Ensieh Khazaei<sup>*</sup>, **Kai Wang<sup>*</s
 
 **Kai Wang**, Dimitrios Hatzinakos. 
 
-**APSIPA 2023 (Oral)**
+**APSIPA 2023 (Oral)** -->
 
 - We propose the SEformer, an efficient dual-path conformer neural network for speech enhancement.
 
@@ -113,7 +151,7 @@ Alireza Esmaeilzehi<sup>*</sup>, Ensieh Khazaei<sup>*</sup>, **Kai Wang<sup>*</s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2021</div><img src='./images/caunet.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2021</div><img src='./images/caunet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CAUNet: Context-Aware U-Net for Speech Enhancement in Time Domain](https://ieeexplore.ieee.org/abstract/document/9401787) 
@@ -123,7 +161,7 @@ Alireza Esmaeilzehi<sup>*</sup>, Ensieh Khazaei<sup>*</sup>, **Kai Wang<sup>*</s
 **ISCAS 2021**
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2021</div><img src='./images/tstnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
