@@ -9,6 +9,7 @@
 
 <div class="scrollable">
   <ul>
+  <li> <i>2025.08</i>: 🎉 One cofirst-author paper is accepted by ICLR 2026. </li>
   <li> <i>2025.08</i>: 🎉 One paper is accepted by EMNLP 2025 (Findings). </li>
   <li> <i>2025.07</i>: 🎉 One first-author paper is accepted by ACM MM 2025. </li>
   <li> <i>2025.07</i>: 🎉 One first-author paper is accepted by BMVC 2025. </li>

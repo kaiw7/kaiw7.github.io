@@ -2,7 +2,7 @@
 # 📝 Selected Publications
 > ( <sup>*</sup> equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='./images/self-impro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-Improvement in Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2510.02665) 
@@ -27,7 +27,7 @@ Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2025</div><img src='./images/placeholder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2025</div><img src='./images/AV-STFP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning
