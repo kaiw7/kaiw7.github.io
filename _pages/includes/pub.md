@@ -88,7 +88,7 @@ Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, 
 
 **Kai Wang**,Yapeng Tian, Dimitrios Hatzinakos. 
 
-**CVPR 2024 Workshop**
+**CVPR 2024**
 
 - We propose a Spatial-Temporal-Global Cross-Modal Adaptation (STG-CMA) to gradually equip the frozen ViTs with the capability for learning audio-visual representation.
 
