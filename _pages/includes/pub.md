@@ -30,7 +30,7 @@ Dongyang Liu<sup>*</sup>, Shicheng Li<sup>*</sup>, Yutong Liu<sup>*</sup>, Zhen 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2025</div><img src='./images/AV-STFP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning
+[Prompt Image to Watch and Hear: Multimodal Prompting for Parameter-Efficient Audio-Visual Learning](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_949/paper.pdf)
 
 **Kai Wang**, Shentong Mo, Yapeng Tian, Dimitrios Hatzinakos.
 
