@@ -3,7 +3,7 @@
 <!--- # 💻 Internships -->
 
 # 🏁 Services
-- Conference Reviewer: CVPR, ICLR, ACM MM, BMVC, CVPRW, ICASSP, ICME, ICJNN
+- Conference Reviewer: ECCV, CVPR, ICLR, ACM MM, BMVC, CVPRW, ICASSP, ICME, ICJNN
 - Journal Reviewer: IJCV, Systems, and Signal Processing (CSSP), Speech Communication
 
 # 🧑‍🏫 Teaching

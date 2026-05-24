@@ -2,6 +2,30 @@
 # 📝 Selected Publications
 > ( <sup>*</sup> equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='./images/visiosonic-with-dpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization]() 
+
+Kai Wang, Tao Zhou, Jiayi Lei, Jing Wang, Jinman Zhao, Weiguo Pian, Yuan Cheng, Yapeng Tian, Peng Gao, Bin Fu, Yihao Liu, Dimitrios Hatzinakos, Yuewen Cao.
+
+**CVPR 2026 (Main)**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='./images/omnisonic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](https://arxiv.org/pdf/2604.04348) 
+
+ Weiguo Pian, Saksham Singh Kushwaha, Zhimin Chen, Shijian Deng, **Kai Wang**, Yunhui Guo, Yapeng Tian.
+
+**CVPR 2026 (Main)**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='./images/self-impro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
