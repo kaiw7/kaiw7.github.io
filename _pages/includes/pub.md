@@ -2,6 +2,18 @@
 # 📝 Selected Publications
 > ( <sup>*</sup> equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='./images/AV-survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/pdf/2605.04045) 
+
+You Qin, Kai Liu, Shengqiong Wu, **Kai Wang**, Shijian Deng, Yapeng Tian, Junbin Xiao, Yazhou Xing, Yinghao Ma, Bobo Li, Roger Zimmermann, Lei Cui, Furu Wei, Jiebo Luo, Hao Fei.
+
+**Technical Report**
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='./images/visiosonic-with-dpo-new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,6 +34,18 @@
  Weiguo Pian, Saksham Singh Kushwaha, Zhimin Chen, Shijian Deng, **Kai Wang**, Yunhui Guo, Yapeng Tian.
 
 **CVPR 2026 (Main)**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='./images/javisdit++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation](https://arxiv.org/pdf/2602.19163) 
+
+Kai Liu<sup>*</sup>, Yanhao Zheng<sup>*</sup>, **Kai Wang<sup>*</sup>**, Shengqiong Wu, Rongjunchen Zhang, Jiebo Luo, Dimitrios Hatzinakos, Ziwei Liu, Hao Fei, Tat-Seng Chua
+
+**ICLR 2026**
 
 </div>
 </div>
