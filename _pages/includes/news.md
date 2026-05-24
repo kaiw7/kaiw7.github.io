@@ -9,6 +9,7 @@
 
 <div class="scrollable">
   <ul>
+  <li> <i>2026.05</i>: 🎉 We released a audio-visual intelligence survey paper. </li>
   <li> <i>2026.02</i>: 🎉 Two papers (1 first-author and 1 co-author) are accepted by CVPR 2026 (Main Track). </li>
   <li> <i>2026.01</i>: 🎉 One co-first-author paper is accepted by ICLR 2026. </li>
   <li> <i>2025.08</i>: 🎉 One paper is accepted by EMNLP 2025 (Findings). </li>
