@@ -17,7 +17,7 @@ You Qin, Kai Liu, Shengqiong Wu, **Kai Wang**, Shijian Deng, Yapeng Tian, Junbin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='./images/visiosonic-with-dpo-new.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization](https://kaiw7.github.io/VisioSonic/) 
+[Hear What You See: Video-to-Audio Generation with Diffusion Transformer and Semantic-Temporal Alignment-Ranked Direct Preference Optimization](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Hear_What_You_See_Video-to-Audio_Generation_with_Diffusion_Transformer_and_CVPR_2026_paper.pdf) 
 
 **Kai Wang**, Tao Zhou, Jiayi Lei, Jing Wang, Jinman Zhao, Weiguo Pian, Yuan Cheng, Yapeng Tian, Peng Gao, Bin Fu, Yihao Liu, Dimitrios Hatzinakos, Yuewen Cao.
 
@@ -29,7 +29,7 @@ You Qin, Kai Liu, Shengqiong Wu, **Kai Wang**, Shijian Deng, Yapeng Tian, Junbin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='./images/omnisonic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](https://arxiv.org/pdf/2604.04348) 
+[OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text](https://openaccess.thecvf.com/content/CVPR2026/papers/Pian_OmniSonic_Towards_Universal_and_Holistic_Audio_Generation_from_Video_and_CVPR_2026_paper.pdf) 
 
  Weiguo Pian, Saksham Singh Kushwaha, Zhimin Chen, Shijian Deng, **Kai Wang**, Yunhui Guo, Yapeng Tian.
 
