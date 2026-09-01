@@ -74,6 +74,34 @@
         object-fit: contain;
         box-shadow: none;
     }
+
+    .industry-topic {
+        margin: 0;
+        line-height: 1.5;
+        font-size: 1.08em;
+        font-style: italic;
+
+        span {
+            display: inline;
+            margin-right: .2em;
+            color: inherit;
+            font-size: inherit;
+            font-weight: 600;
+            letter-spacing: 0;
+            text-transform: none;
+        }
+    }
+
+    .industry-company {
+        margin-bottom: .45em;
+        font-size: 1.3em;
+        font-weight: 700;
+    }
+
+    .industry-role {
+        margin-bottom: .9em;
+        font-size: 1.05em;
+    }
     
     @include breakpoint($medium) {
         .paper-box-image{
@@ -94,16 +122,21 @@
 
     &.industry-card {
         @include breakpoint($medium) {
+            display: grid;
+            grid-template-columns: 160px minmax(0, 1fr);
+            column-gap: 2rem;
+
             .paper-box-image {
+                width: auto;
                 min-width: 160px;
-                max-width: 160px;
-                margin-left: 2rem;
+                max-width: none;
+                margin-left: 0;
+                justify-content: flex-end;
             }
 
             .paper-box-text {
-                flex: 1;
                 max-width: none;
-                padding-left: 1.5rem;
+                padding-left: 0;
             }
         }
     }
