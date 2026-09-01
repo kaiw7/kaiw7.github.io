@@ -2,7 +2,7 @@
 
 # 💼 Industry Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
+<div class='paper-box industry-card'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Scientist Intern**, Adobe Research  
@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/meta_logo.jpeg' alt='Meta logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
+<div class='paper-box industry-card'><div class='paper-box-image'><div><img class='industry-logo' src='./images/meta_logo.jpeg' alt='Meta logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Scientist Intern**, Meta  
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
+<div class='paper-box industry-card'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo' width='96' height='96' style='width: 96px; height: 96px; max-width: 96px; object-fit: contain; box-shadow: none;'></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Scientist Intern**, Adobe Research  

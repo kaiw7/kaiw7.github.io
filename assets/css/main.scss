@@ -92,6 +92,22 @@
 
     }
 
+    &.industry-card {
+        @include breakpoint($medium) {
+            .paper-box-image {
+                min-width: 160px;
+                max-width: 160px;
+                margin-left: 2rem;
+            }
+
+            .paper-box-text {
+                flex: 1;
+                max-width: none;
+                padding-left: 1.5rem;
+            }
+        }
+    }
+
 
 }
 
