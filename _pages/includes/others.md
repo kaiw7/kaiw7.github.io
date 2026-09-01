@@ -1,10 +1,43 @@
 <!--- # 📖 Educations -->
 
-<!--- # 💻 Internships -->
+# 💼 Industry Experience
+
+<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Scientist Intern**, Adobe Research  
+*Jun. 2026 – Sep. 2026*
+
+- Developing general-purpose methods for joint audio-video editing.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/meta_logo.jpeg' alt='Meta logo'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Scientist Intern**, Meta  
+*Dec. 2025 – May 2026*
+
+- Developed methods for first-order Ambisonics (FoA) spatial audio generation conditioned on panoramic and limited-field-of-view video.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img class='industry-logo' src='./images/adobe_log.jpeg' alt='Adobe logo'></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Research Scientist Intern**, Adobe Research  
+*Jun. 2025 – Dec. 2025*
+
+- Developed efficient generative models for joint audio-video generation.
+
+</div>
+</div>
 
 # 🏁 Services
-- Conference Reviewer: NeurIPS, ECCV, CVPR, ICLR, ACM MM, BMVC, CVPRW, ICASSP, ICME, ICJNN
-- Journal Reviewer: IJCV, Systems, and Signal Processing (CSSP), Speech Communication
+- Conference Reviewer: AAAI, NeurIPS, ECCV, CVPR, ICLR, ACM MM, WACV, BMVC, CVPRW, ICASSP, ICME, ICJNN
+- Journal Reviewer: Pattern Recognition, IJCV, Systems, and Signal Processing (CSSP), Speech Communication
 
 # 🧑‍🏫 Teaching
 - Winter (2023, 2024), Fall(2023, 2024): ECE421 Introduction to Machine Learning

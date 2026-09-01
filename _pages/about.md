@@ -22,5 +22,5 @@ redirect_from:
 <center>
     <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=G0kUd01qp_X51j2JI9KKac5r5nvUapRlJBEjaW6OGqo&cl=ffffff&w=300"></script>
 
-    <br> &copy; Kai Wang | Last updated: Feb. 17, 2026 | Theme by Yi Ren
+    <br> &copy; Kai Wang | Last updated: Sep. 1, 2026 | Theme by Yi Ren
 </center>

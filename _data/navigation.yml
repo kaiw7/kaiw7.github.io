@@ -12,15 +12,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Industry Experience"
+    url: "/#-industry-experience"
+
  # - title: "Educations"
  #   url: "/#-educations"
 
   - title: "Services"
     url: "/#-services"
 
-#  - title: "Internships"
-#    url: "/#-internships"
-
   - title: "Teaching"
     url: "/#-teaching"
-

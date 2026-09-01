@@ -66,6 +66,14 @@
         max-width: 100%;
         order: 1;
     }
+
+    .paper-box-image .industry-logo {
+        width: 140px;
+        height: 140px;
+        max-width: 140px;
+        object-fit: contain;
+        box-shadow: none;
+    }
     
     @include breakpoint($medium) {
         .paper-box-image{
